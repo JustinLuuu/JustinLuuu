@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Justin Jr</h1>
-<h3 align="center"> I'm playing and interested in web development with technologies such as C#, JavaScript and WebAssembly</h3>
+<h3 align="center">I'm a Full-Stack Developer specializing in scalable architectures, robust APIs, and building user friendly interfaces.</h3>
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://justinjrdev.com/)
 
-- 💬 Ask me about **React.js , Node.js , C#**
+- 💬 Ask me about **React.js , Node.js , C# .NET**
 
-- 🌱 I’m currently learning **Business, AI, WebAssembly, Golang**
+- 🌱 I’m currently learning **WebAssembly, Web3, Golang**
 
 - 📫 How to reach me **justinjrminaya@gmail.com**
